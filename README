@@ -6,6 +6,8 @@
 # hardware variometer       #
 #############################
 
+This is a fork of the GNUVario to get it running on a arduino nano 33 ble.
+
 For complete documentation and help see the GNUVario website :
 https://prunkdump.github.io/GNUVario
 
